@@ -13,7 +13,7 @@ const device = new awsIot.device({
     certPath: "/Users/pao/aws-iot-ts/src/cert.crt",
     caPath: "/Users/pao/aws-iot-ts/src/rootCA.pem",
     clientId: genClientId(6),
-    host: "asxwe0mkazfs1-ats.iot.ap-southeast-1.amazonaws.com"
+    host: "xxxxx-ats.iot.ap-southeast-1.amazonaws.com"
 });
 
 
